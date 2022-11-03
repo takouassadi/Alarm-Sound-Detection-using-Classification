@@ -21,6 +21,7 @@ other node in the next layer. We deepen the network by increasing the number of 
 
 ![image](https://user-images.githubusercontent.com/91010908/199801831-7cae7867-c2a2-46ba-9bc7-22becc2d4f7e.png)
 
+---------------------------------------------------------------------------------------------------------------------------
 
  Transfer Learning:
  
@@ -31,6 +32,7 @@ layer. Besides, we have to make sure that we use the exact preprocessing steps t
 
 ![image](https://user-images.githubusercontent.com/91010908/199801976-69f01ba5-ab0e-4ae5-b967-cfa1c42b8a4a.png)
 
+----------------------------------------------------------------------------------------------------------------------------
 
 Referneces :
 
