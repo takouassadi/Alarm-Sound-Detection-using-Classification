@@ -35,11 +35,16 @@ layer. Besides, we have to make sure that we use the exact preprocessing steps t
 Referneces :
 Detecting alarm sound Daniel P.W. Ellis Department of Electrical Engineering, Columbia University, New York
 NY the USA.
+
 UrbanSound8K - Urban Sound Datasets (weebly.com)
+
 Detection of Alarm Sounds in Noisy Environments: 2017 25th European Signal Processing Conference
 (EUSIPCO).
+
 Eleni Tsalera, Andreas Papadakis and Maria Samarakou, "Comparison of Pre-Trained CNNs for Audio
+
 Classification Using Transfer Learning". J. Sens. Actuator Netw. 2021, 10, 72. https://doi.org/10.3390/jsan10040072
+
 https://bicycleuniverse.com/legal-ride-bike-headphones
 
 
